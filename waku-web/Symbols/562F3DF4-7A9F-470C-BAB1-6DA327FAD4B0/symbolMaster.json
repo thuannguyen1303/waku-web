@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DF22C273-832A-4E91-8C70-203004478D6C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1018,
+  "do_objectID": "562F3DF4-7A9F-470C-BAB1-6DA327FAD4B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB07934B-FF58-45B1-B5BC-E83ED8D5B5FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5026F6E-BFF8-4258-A099-C6D15C1D0DE8",
+    "height": 56,
+    "width": 370,
+    "x": 3555,
+    "y": 320
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "65BB0F8C-1FEC-45C4-B800-4E790FD6FC66",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D8EE228D-0AA8-4449-A66A-9DE0A6C29AFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BA88334-366C-4C1F-98AA-DD1405ED399D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6AC02B4-8846-4FFA-BC07-B0C69D3E1E22"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5417F86-B53B-4BA4-AA18-4E9824C350DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E63CA8F-6E28-42A3-AB70-36E143267016"
+    },
+    {
+      "class": "text",
+      "id": "AE725759-DFA7-4AE5-BF54-40F9E70FAAA5"
+    },
+    {
+      "class": "text",
+      "id": "231A763E-30A5-4B31-B4F9-A7522836FC76"
+    }
+  ],
+  "name": "component / list-view / sm",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9D3781A-4D4D-409E-886A-524BEDD398DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F6D65F7-4449-45DB-907C-52D6B46D8066",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B1F3F464-D2F4-47CD-AF8E-E25ABE7F241F",
+    "guides": [
+    ]
+  }
+}

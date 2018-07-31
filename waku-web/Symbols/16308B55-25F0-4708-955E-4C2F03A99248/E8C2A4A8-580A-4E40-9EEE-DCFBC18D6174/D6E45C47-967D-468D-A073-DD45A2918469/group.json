@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D6E45C47-967D-468D-A073-DD45A2918469",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98F63C37-EF10-40FC-8785-11C8E6C3B257",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8430CCC6-B692-4960-8975-C286F7108E90",
+    "height": 16,
+    "width": 16,
+    "x": 355,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6DE4DF36-181D-4859-85A5-CEE71B50F4AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0699621B-158D-47B7-9ED6-1DE9347EB40F"
+    }
+  ],
+  "name": "Sign-Out icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A1C4961C-EB66-4BA9-8C8C-A61A63C6C56F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

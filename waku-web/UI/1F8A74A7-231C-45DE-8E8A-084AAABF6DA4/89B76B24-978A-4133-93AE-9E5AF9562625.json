@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "89B76B24-978A-4133-93AE-9E5AF9562625",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "578B7ED9-C065-48EF-949E-A7C9A98421B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8F33D65-BDAD-42AE-AA09-4F10BF6F9B84",
+    "height": 48,
+    "width": 252,
+    "x": 737,
+    "y": 440
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / checkbox / pc copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "94F9726D-B313-4BE0-868E-7CA8712E952A",
+      "overrideName": "EABB7B79-9F17-4D39-8337-4F245891DD7A_symbolID",
+      "value": "589E6FD3-41D1-40D4-990B-B384E6E36AD4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C533CE7C-BC40-4D14-9786-496A8803C04B",
+      "overrideName": "E307C4F1-A92B-4D3A-8F8B-EF9DE1349A41_stringValue",
+      "value": "I have never been Japan yet"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3643776-93CC-4423-98F4-FEA8A7A9BC61",
+      "overrideName": "AE53B7C9-F979-4DA3-8010-B29A30A75A41_symbolID",
+      "value": "9BFA2706-2686-4B35-AC78-1B90B5108499"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F9A76120-FB06-4361-80F9-0490E331A987",
+      "overrideName": "7244C172-9870-4A1E-A5E4-138EAE9A5705_stringValue",
+      "value": "Thai"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F9649973-22A2-4B9D-B8A5-53E293FA81FD",
+      "overrideName": "5C907E9F-1171-4A32-B38E-F417913885B2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "558560AD-CFAB-4512-B1DF-D2F28933FCE5",
+      "overrideName": "4225F44B-5A55-4BA6-ABFD-0DC27B42E4DF_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B370440-CD45-4F15-BAD1-3FD5B0A98EB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "258B3161-3A71-4F0E-94B0-2D31F6BC83B4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

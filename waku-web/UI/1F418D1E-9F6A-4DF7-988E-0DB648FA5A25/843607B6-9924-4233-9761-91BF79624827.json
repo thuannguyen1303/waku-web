@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "843607B6-9924-4233-9761-91BF79624827",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 343,
+    "x": 16,
+    "y": 528
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / radio / checked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41BAE613-415B-4602-9DF8-CAA2518E18AD",
+      "overrideName": "E307C4F1-A92B-4D3A-8F8B-EF9DE1349A41_stringValue",
+      "value": "Lifestyle"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2DCE0FDA-E975-4E9D-B5C7-6315AAC2F0D5",
+      "overrideName": "7244C172-9870-4A1E-A5E4-138EAE9A5705_stringValue",
+      "value": " Lifestyle"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C593D0DF-F632-4C12-80B3-91FBBFDC01EA",
+      "overrideName": "4225F44B-5A55-4BA6-ABFD-0DC27B42E4DF_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "58A76E38-4F4B-4236-92E5-C129D5DEED24",
+      "overrideName": "AE53B7C9-F979-4DA3-8010-B29A30A75A41_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7708AD94-2CB5-4EC8-8E20-6D9403A4E268",
+      "overrideName": "EABB7B79-9F17-4D39-8337-4F245891DD7A_symbolID",
+      "value": "483A3595-4145-4343-A9BB-CC9EA7432FCB"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "258B3161-3A71-4F0E-94B0-2D31F6BC83B4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

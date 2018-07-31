@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "B97E6A62-C928-4DBF-B222-9D4C1594AE72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 152,
+    "x": 16,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D6F77877-C2C4-4C9D-98C6-A7D828E2B3E1"
+    },
+    {
+      "class": "text",
+      "id": "2970FB0E-DDDB-46A9-B603-25CD67EA68BF"
+    },
+    {
+      "class": "text",
+      "id": "2A479426-D2F8-4512-A43A-83606F307E81"
+    },
+    {
+      "class": "text",
+      "id": "368CA06E-04CC-4BD7-B40A-D609A4D06F60"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62FAF80F-C654-448D-BCE5-189DCE3A054B"
+    },
+    {
+      "class": "text",
+      "id": "F425196E-D1FF-4E6B-8C8D-F69807A6B1E4"
+    }
+  ],
+  "name": "profile-badge / lg",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

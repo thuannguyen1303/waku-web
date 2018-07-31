@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5A9BCAD8-22D6-4B38-99B8-5EFE8D851A7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 827,
+    "x": 64,
+    "y": 1553
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4B940F60-8D34-4F4D-88E2-ED599B896F96"
+    },
+    {
+      "class": "text",
+      "id": "4ABBF844-47B2-41BA-A4B8-062BE35929A9"
+    },
+    {
+      "class": "text",
+      "id": "F0245384-0845-46F9-AFA7-29AEA38A97F0"
+    },
+    {
+      "class": "text",
+      "id": "2C6FABE3-A95D-43A3-BB83-522F9C802291"
+    },
+    {
+      "class": "text",
+      "id": "5FDC632F-8D94-49F7-8D40-7025BD103636"
+    },
+    {
+      "class": "text",
+      "id": "8E252238-8F80-4485-858C-4598393276FC"
+    },
+    {
+      "class": "text",
+      "id": "03E31FC7-A50F-4269-BB48-057DFA9B54BC"
+    },
+    {
+      "class": "text",
+      "id": "BBE2BEAA-B80A-48A9-81E1-50AA3F801B20"
+    },
+    {
+      "class": "text",
+      "id": "C7B666C3-0424-4C55-8B4F-AB553546D249"
+    },
+    {
+      "class": "text",
+      "id": "49E670EE-66BD-4D74-8EB8-5C455687ED7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E2AFB05-C18F-41D6-8E61-ED2FFACEFD06"
+    }
+  ],
+  "name": "Group 6",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

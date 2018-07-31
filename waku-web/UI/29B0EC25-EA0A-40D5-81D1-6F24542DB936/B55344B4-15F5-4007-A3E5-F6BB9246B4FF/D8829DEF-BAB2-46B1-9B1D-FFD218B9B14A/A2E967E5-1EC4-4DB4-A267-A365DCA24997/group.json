@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A2E967E5-1EC4-4DB4-A267-A365DCA24997",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8A3CD529-4E6F-4D00-9B52-E7B2757D6FEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E6B58C2-38F8-4355-B7D8-1998A4C0ED0A",
+    "height": 720,
+    "width": 275,
+    "x": 551.7492194240384,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A4B23AD6-2E3C-4125-BD61-C1817462CA81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "049A484B-CFFA-4271-8FA7-0938BA43F571"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "436B1B12-8449-488C-BFB6-EB11630D484E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C33D690-D984-4804-B8EA-22868FDFE1B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAD8914D-6D17-4263-9D58-C178F79136E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "754CBF98-4392-4C96-9C35-E27617EE8F23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28C2939F-2C33-4FCA-9234-066C631FC17A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E66905A-541B-470B-AF1C-014D72B8E570"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A85771B-953C-420E-AA53-089E07DC0E5E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6ABD5D6-005E-426A-9333-B918F78F6E3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1FD30A83-4338-4961-9D51-BD72A8DF08F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "502EA9AE-D846-4E73-8E7F-CD80BDF27394"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B31A0D98-B978-416D-A09F-55B51DBCD76E"
+    }
+  ],
+  "name": "Tax Col",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C83C1527-2B83-4418-8A43-DB26E7555B83",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

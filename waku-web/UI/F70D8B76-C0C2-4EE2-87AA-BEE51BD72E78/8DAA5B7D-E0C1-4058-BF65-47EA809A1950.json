@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "8DAA5B7D-E0C1-4058-BF65-47EA809A1950",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BAF29D7-1C65-46CC-A92B-BCD683B50D3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8563BE02-922E-4789-B47E-1EF1A355DBDC",
+    "height": 32,
+    "width": 116,
+    "x": 601,
+    "y": 552
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / button / primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2481C37A-5A0B-47B8-BBC1-58055A80C0E7",
+      "overrideName": "730F017B-3606-44F2-AC68-0145AB1A180D_symbolID",
+      "value": "7B268643-5403-4E6B-9EE6-FDDE0CC809FE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "78DD69E5-55F7-4A19-B400-08A1C79791F0",
+      "overrideName": "E9F54A1D-3303-42C1-B739-1DD097E31D7E_stringValue",
+      "value": "Next"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A2BD923-7EF5-487A-A4D1-8F3FA522E6FE",
+      "overrideName": "730F017B-3606-44F2-AC68-0145AB1A180D/090D9355-568E-4253-B55F-F210B47679BC_symbolID",
+      "value": "212795A4-63B7-41F7-9AE7-09EFB8B6D19E"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C5E4FCC5-A3D5-4474-B5DC-06B45D41D01A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3B3BC241-7359-418A-AA2A-ED959ADE53C8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

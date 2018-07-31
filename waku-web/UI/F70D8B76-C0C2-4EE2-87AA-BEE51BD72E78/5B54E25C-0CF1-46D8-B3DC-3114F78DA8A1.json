@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "5B54E25C-0CF1-46D8-B3DC-3114F78DA8A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC7AA9A6-AC2D-4094-98F8-5622121F644E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0770F1D7-E627-40DC-AF7A-F4C140854793",
+    "height": 48,
+    "width": 253,
+    "x": 451,
+    "y": 248
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / checkbox / pc",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B69CEE2A-AEDB-4A7E-BF54-7C9853B69D59",
+      "overrideName": "812B1915-4F70-4320-A98F-F12BD08EE920_symbolID",
+      "value": "29CC4A41-E032-4223-B785-B9C53442D066"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C73F30B-3CE2-4104-BF09-1E447C72C629",
+      "overrideName": "CAD278A0-75E0-4EF3-AF95-520F184B6A94_stringValue",
+      "value": "Within 1 Year"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BE7D486B-175F-4262-9158-9AD5B0B5472C",
+      "overrideName": "812B1915-4F70-4320-A98F-F12BD08EE920/8D7AB882-DF32-478D-B0A1-141E29BE9415_symbolID",
+      "value": "D2B08AA7-E8A0-4934-8CEB-38748FEF210B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3457AF91-2F6B-43D3-BBA6-76ED937939F6",
+      "overrideName": "F0D72387-5326-419C-A07F-EB6D5DD41945_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8B8FB570-C970-44FE-822D-889870D67EA2",
+      "overrideName": "64507085-3CAF-48E3-97C4-B3189CED4F34_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D3A1E60-1677-438E-9063-3BE8BDEC2DD7",
+      "overrideName": "E06907FD-5501-4B3B-B7F3-F3C14C65D756_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B8225B2-513E-4593-B070-ED29A05E23CD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "825CA34A-45AF-4E65-9453-BE261211F979",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

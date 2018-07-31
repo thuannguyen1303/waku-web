@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "DA2B2EC4-012B-4F31-B638-929E821A9A30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4869132B-52DE-46CB-BF2C-7D3557EA09E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CA03EADC-97C8-4774-B76A-015F45EE09CB",
+    "height": 720,
+    "width": 280,
+    "x": 827.6238291360576,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "37D46D61-EEAF-432C-B3DA-F11A248AC14C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A40C13A1-0DDB-4DA3-96E0-0A2F279A4F09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C46E5FDA-3F4C-4B4F-8671-463D5A1A65DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36FFAF9C-9956-4CEA-A46D-DD990F446ECE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0437E067-F052-4FAE-A4E9-1777C9896165"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "653D17D8-4207-4E94-856C-AF4EFADE142F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "105EE0CF-2CAA-46DC-BA1E-5B12735D934F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4A4D89D-4C14-4FA7-9007-B7952B7DD42B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F551ECAE-58FB-4EEC-9CE8-B0C9BF6C85F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2EE209E-56AF-4020-8E45-25933D1721FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0034B0EF-901E-456E-93E8-6F5523547666"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BD82497-ABC1-4264-A8AE-1554FEE7A76E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BECBA6D7-4C86-41D5-9A80-2BCF513DCFAE"
+    }
+  ],
+  "name": "Payment Col",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B118CBB-7AC3-49C8-AF1D-E3D90DEFF2EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

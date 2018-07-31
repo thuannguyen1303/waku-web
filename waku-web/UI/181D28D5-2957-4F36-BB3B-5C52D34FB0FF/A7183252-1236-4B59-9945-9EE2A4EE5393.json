@@ -1,0 +1,92 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A7183252-1236-4B59-9945-9EE2A4EE5393",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1C85538-C3A2-49AA-81E3-3C246E273EEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5318947-F597-44D0-B2BE-DFE3744C79C0",
+    "height": 48,
+    "width": 253,
+    "x": 736,
+    "y": 440
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / checkbox / pc copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DC95B21-4A7B-4252-B37F-24C4B5FA0264",
+      "overrideName": "EABB7B79-9F17-4D39-8337-4F245891DD7A_symbolID",
+      "value": "483A3595-4145-4343-A9BB-CC9EA7432FCB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC9F6EB0-B7E1-419D-809A-16D042E2BB47",
+      "overrideName": "E307C4F1-A92B-4D3A-8F8B-EF9DE1349A41_stringValue",
+      "value": "Kyushu - Okinawa"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F408BF7-3F3C-4CF9-8389-90AC029A1C30",
+      "overrideName": "AE53B7C9-F979-4DA3-8010-B29A30A75A41_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CC863C2-D599-4431-BD78-DE6494145058",
+      "overrideName": "7244C172-9870-4A1E-A5E4-138EAE9A5705_stringValue",
+      "value": "I've never been to Japan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E5194A01-B7EE-4B1D-9D91-8EBF06CE51B0",
+      "overrideName": "5C907E9F-1171-4A32-B38E-F417913885B2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C7108FC-C109-40A8-92E3-8D71EDA83027",
+      "overrideName": "4225F44B-5A55-4BA6-ABFD-0DC27B42E4DF_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA8B8252-5882-494D-B229-821A3393BF2A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "258B3161-3A71-4F0E-94B0-2D31F6BC83B4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "DA9B8630-5598-49F0-B8A9-E612945DDA32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57BABCD3-7E27-475C-98E2-F19B1E1915BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "781DE27A-F797-4BFE-BE2F-E4FA4563809C",
+    "height": 80,
+    "width": 348,
+    "x": 666,
+    "y": 176
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4E20C0A5-CFF6-4FDA-8A11-03EC7795F360"
+    },
+    {
+      "class": "text",
+      "id": "84BBC1B3-4972-4263-BB53-9EA3C3328681"
+    },
+    {
+      "class": "group",
+      "id": "3FAE92FC-7E36-45D3-823B-0E6D205CE92D"
+    }
+  ],
+  "name": "chip / statistic copy 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "012CB377-316C-43D3-9D28-633860A96EC7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "EA07C988-AAED-44D9-851A-D1AAD349AF89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D04B6F4E-5C0A-422B-A936-B3B710A9FEE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "087AE245-0B01-47DF-B9B2-362E5F41445A",
+    "height": 32,
+    "width": 303,
+    "x": 1,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card / header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB3A8063-1B60-491B-8B2A-AE90BAA94939",
+      "overrideName": "72E58608-AF12-4278-9A67-206BFFE8134C_stringValue",
+      "value": "Payment in"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF9A7A81-80A1-4532-9355-B6C8DA612A84",
+      "overrideName": "478A209E-1FF1-4B9E-A1C8-E36051AE9D78_symbolID",
+      "value": "287BAE13-08C6-496C-9B7D-6C34E3B13E74"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB741FEE-8A90-4443-97BE-18573EBED9DA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "77A0B6CC-22A2-4DEB-A2ED-85625C8D47E8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

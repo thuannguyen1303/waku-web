@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D6A2F01C-A420-459A-A417-EFA8F450CE1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "nav / header-on-black",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9DE67A4A-941B-4C1B-BB93-93D7E9B629A2",
+      "overrideName": "8C8949A9-AD45-457E-B502-A3E09162AE13_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF683CAE-F01D-4D38-B2E8-D87693FB216B",
+      "overrideName": "3518C48B-F0F5-40C0-9FA2-B295BDA86212/1D59E777-DA70-4C7D-B4B4-2249AF6BC84D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e50f7220803a8b268161e2a3deaa7783473dbd86.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7BA9334-2774-48B0-81D1-2ADC4517513C",
+      "overrideName": "B79D6F1D-0867-46C3-8924-07D9E257C004_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8A596B78-C06C-4717-B782-47C2A4FC7478",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "99625DDF-4433-4AC2-9085-1C4E9C4BD505",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABC6552B-AB01-4D1B-9EF4-F8AF3CD74ADD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7540D3C4-6BED-41AE-9790-9BBE6722946A",
+    "height": 88,
+    "width": 345,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card / header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "972CEC48-4ACC-4CA3-9825-4C6DADB6DE64",
+      "overrideName": "8C08DD61-A073-4287-95C1-171D24008A00_stringValue",
+      "value": "Posts in"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09E14EC9-3CA8-4DA7-AE66-09FB247F628B",
+      "overrideName": "EC2DB134-F0B9-4C06-B24A-3FED009B908F_symbolID",
+      "value": "B68730EB-EA28-45C8-9494-4578B8C0AABA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A45C83D0-E2FA-4E43-80BA-39E3ECFC6676",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "95CC7AE7-8C57-4425-9821-4252A5ED86B8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "75DCECF0-0A5E-4A8B-8CA9-CE0761B0350B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D72DBAC-8469-4B66-A774-D54CBCD98CF6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "ACD74046-CB66-4304-9F85-C8C9AA2DCC58",
+    "height": 32,
+    "width": 104,
+    "x": 136,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2D12EC3B-7E52-4F81-B961-D6E442604576"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7AB6CEB4-DD6F-4F90-A72C-87D42A1D3614"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFB48257-D516-449A-A181-DD7371A834EA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "131C1826-FCCB-4F6B-BF6A-B2FF65BFE9BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31C3D3B8-438D-4D86-96B4-4B017E201AC7"
+    }
+  ],
+  "name": "Logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "81939A9C-68F2-4AC1-8F66-FE224DB297FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "animation": 0,
+            "customAnimationId": "",
+            "delayFromTrigger": 0,
+            "isOverlay": 0,
+            "modelID": "OpenScreen_7c1bd75e-d6cc-4a25-8cfe-a31d7f562ff5",
+            "model_class": "ADModelActionPresentScreen",
+            "model_version": 0.1,
+            "name": "untitled",
+            "presentationType": 2,
+            "screenId": "61701453-D52C-4E7F-8EDF-7F5CBB8F1DDC",
+            "trigger": 4
+          }
+        ],
+        "constraints": {
+          "aspectRatio": {
+            "constant": 32,
+            "enabled": 1,
+            "modelID": "constraint_87abe804-9fb9-4ec4-96dc-7d7647b20911",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 104
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_98f32c1b-5a91-4b33-98bf-060f1a48a1c5",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

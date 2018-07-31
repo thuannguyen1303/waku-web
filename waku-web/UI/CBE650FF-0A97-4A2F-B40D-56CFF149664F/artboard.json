@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9725490196078431,
+    "green": 0.9725490196078431,
+    "red": 0.9725490196078431
+  },
+  "booleanOperation": 0,
+  "do_objectID": "CBE650FF-0A97-4A2F-B40D-56CFF149664F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A077E64C-0C68-406D-AEE4-FAC8F75C259B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "117B5883-10F9-45EE-A4CD-10576CDD7913",
+    "height": 1751,
+    "width": 375,
+    "x": 2048,
+    "y": 2524
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "7911026C-1364-4857-845B-A0AC5A64A819",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "61C005B3-AEFB-443B-BDD2-A5BF44C85855",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8E82B5C4-DE0F-4C18-AA56-FE979549977D"
+    },
+    {
+      "class": "group",
+      "id": "980F1E01-CAE2-4B11-A27D-BA0570CD9C67"
+    },
+    {
+      "class": "group",
+      "id": "843FB728-A3B7-4B9B-BB46-F3AE326C5791"
+    },
+    {
+      "class": "text",
+      "id": "FD7E6240-D90E-4978-AD14-FCD71BABBBD2"
+    },
+    {
+      "class": "group",
+      "id": "2E437149-8C41-4E73-905B-4438C8807907"
+    },
+    {
+      "class": "group",
+      "id": "FE6B5182-DB22-4EB2-8767-4C8C6CE8A780"
+    },
+    {
+      "class": "group",
+      "id": "39D92531-2BF1-48C1-8072-5CC9EECB4834"
+    },
+    {
+      "class": "text",
+      "id": "04E46AAC-F778-4582-AA2C-007D34AB2532"
+    },
+    {
+      "class": "group",
+      "id": "20AAEB3A-6C5A-4376-80AA-EA0BA88E98E5"
+    },
+    {
+      "class": "group",
+      "id": "9C91BAEC-46F6-4B6A-AA5B-428D9C3EAA1F"
+    },
+    {
+      "class": "group",
+      "id": "0D0510AF-5A86-4A4A-B109-8CFD58E62B56"
+    },
+    {
+      "class": "group",
+      "id": "2D5050CB-1261-448E-8612-71448F922E3C"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 61.75,
+    "do_objectID": "6320D5EA-A35A-4B5D-BDE6-7253C609012A",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 375
+  },
+  "name": "375 - All Post",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B34B216-C3CA-4730-B746-EA50C3B39E97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "FveFI7eTwDoMxt80AP6txU6gNAYlQEH/BPEI+Egzv3M=",
+        "variableIDSketchID": "7400CDFC-D0BC-4574-8B21-17233048CCD5"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A862BC51-4FDE-4292-9C3D-1473DAD2A882",
+    "guides": [
+    ]
+  }
+}

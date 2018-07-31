@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "A25A380C-43E8-4DED-B21F-3434E2CF6B38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 207,
+    "x": 187,
+    "y": 480
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F77CF8B1-562F-4BED-BE89-530A9764A0FB"
+    },
+    {
+      "class": "text",
+      "id": "B2619EB3-138C-4E32-992E-AA95E8A1AD86"
+    },
+    {
+      "class": "text",
+      "id": "4B778333-DDC5-43C6-A750-2209CB930B23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E3AF4CA-8A8E-4C00-8CBD-D02CC2D54B35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB8DFA39-856D-4DCE-BC53-2023307B8081"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCFDD46F-AD4A-48B2-8235-B47D6C970850"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45D15745-9A6E-4432-88A6-87715B9360CD"
+    }
+  ],
+  "name": "list / statistic / single copy 4",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "stashedSizeH": [
+          {
+            "constant": 191,
+            "enabled": 0,
+            "modelID": "constraint_50cb7297-660f-4c5d-bf66-71530ba7f7cd",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          {
+            "constant": 89,
+            "enabled": 0,
+            "modelID": "constraint_b6a50a64-511e-4b4f-9fd7-ff4df8b65ac8",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        ]
+      }
+    }
+  }
+}
