@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FC2F8423-D6FA-4DA1-A385-80E9E1D82A9F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1239,
+  "do_objectID": "84407201-559E-48BE-8A80-7CDB90C2A68D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "164FBB06-9EFE-4B34-905A-D5F5E88ECEA6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD2A6F2D-2D89-490A-9D4F-BD3F2AABD1E0",
+    "height": 64,
+    "width": 370,
+    "x": 3555,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8A430985-20AA-4532-A612-6573F04D4909",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3C7E2099-1442-4BD2-A12B-6805D6989774"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C25BAB58-C2A3-4A0D-B955-11B1C5B5FEEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFBEF01B-1768-4536-95AB-704868252805"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F51A61A-CD0F-44A5-921C-F657730B97F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "090CC827-3E6D-49FA-B849-7D9E2E94622C"
+    },
+    {
+      "class": "text",
+      "id": "DB8A8A01-F299-4C1E-906B-223C0CEB05B9"
+    },
+    {
+      "class": "text",
+      "id": "99DB07A4-DB9D-40A1-AE93-4E227D98D157"
+    },
+    {
+      "class": "text",
+      "id": "CD4DF3D2-1214-425B-A4AA-CD83B4C912B0"
+    }
+  ],
+  "name": "component / list-view / lg",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FA2BDF2-11D8-4D22-B335-D8158EB09BF5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "964E16EF-8DF8-4BFF-9681-3D561C55AEE4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "02200D2B-308D-4F01-8142-F7470C5A781B",
+    "guides": [
+    ]
+  }
+}

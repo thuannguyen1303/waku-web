@@ -1,0 +1,187 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9725490196078431,
+    "green": 0.9725490196078431,
+    "red": 0.9725490196078431
+  },
+  "booleanOperation": 0,
+  "do_objectID": "23B5675D-5400-4CF2-8CCE-1B3803D79584",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6553A8CD-F21C-4112-9968-D4B5EA0505FF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9FD1B70-39A1-40E0-AAFF-EE6BFA35084C",
+    "height": 1536,
+    "width": 375,
+    "x": 1623,
+    "y": 2524
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "747EC744-1711-444E-A262-153C66DB2BEF",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 16
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4F016AAD-0853-4D31-B24E-BE471BFB895D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E1D497F2-8EC1-4C49-984C-80CEF50F8F4A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4357323-50D1-4850-B201-27B98572223B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CEC4232D-3170-4C89-9EB9-A46376908A3D"
+    },
+    {
+      "class": "group",
+      "id": "F2DC1794-9624-45A9-A7C9-537CF689F66A"
+    },
+    {
+      "class": "text",
+      "id": "7ECA31FE-72C8-4A9B-A08C-8115C44C2B7F"
+    },
+    {
+      "class": "group",
+      "id": "A8BFC09D-B44F-41D5-ACF9-8A08F4929165"
+    },
+    {
+      "class": "group",
+      "id": "1123135D-2EC5-48E2-ADA7-B584735780AF"
+    },
+    {
+      "class": "group",
+      "id": "5B289211-7031-43C1-9AB8-747DD85F658D"
+    },
+    {
+      "class": "group",
+      "id": "D8AD9EEE-A43A-45B3-A13C-44B2EA6BA975"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BC6874C-21D3-441D-8FB0-B53DA189BD21"
+    },
+    {
+      "class": "group",
+      "id": "3146E621-457C-4A30-8D96-E905218A6CF5"
+    },
+    {
+      "class": "group",
+      "id": "F3EACEF6-4717-4B20-B912-53779304963F"
+    },
+    {
+      "class": "group",
+      "id": "AEEC4C4A-2928-4320-8D81-6A7F29190674"
+    },
+    {
+      "class": "group",
+      "id": "F6F79F52-BAF7-43AE-B681-A1686DD6DD4F"
+    },
+    {
+      "class": "group",
+      "id": "A25A380C-43E8-4DED-B21F-3434E2CF6B38"
+    },
+    {
+      "class": "group",
+      "id": "A28C8793-DE12-4F6D-ABAC-ACC1D375D13B"
+    },
+    {
+      "class": "group",
+      "id": "9D2518CF-669D-4DF8-ADD8-57AFFEBD655A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 61.75,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 375
+  },
+  "name": "375 - Top",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0859C9F-749E-42E0-BB01-0123292C1044",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "nestedSymbolsCacheKey": "FveFI7eTwDoMxt80AP6txU6gNAYlQEH/BPEI+Egzv3M=",
+        "variableIDSketchID": "7400CDFC-D0BC-4574-8B21-17233048CCD5"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B1CFB78B-5ACA-4D65-9025-D874434BE34A",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "7A83C331-C819-4171-977F-5AA108DD52EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC5C26A4-40B6-4C64-9E66-AC06AC5EFD45",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32475C74-C306-45AF-844E-34FC4CE1A952",
+    "height": 32,
+    "width": 356,
+    "x": 958,
+    "y": 808
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7F169692-F1BB-4ECF-BA95-ECC999FE4808"
+    },
+    {
+      "class": "group",
+      "id": "E7A95972-AD60-48D0-9503-7ED7FF5BB230"
+    },
+    {
+      "class": "group",
+      "id": "374C3014-7FD6-4D28-9547-6E860247A25D"
+    }
+  ],
+  "name": "Table Pagination",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4CCE1F60-72CC-4EE0-9689-46D5B3C07853",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

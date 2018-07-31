@@ -1,0 +1,122 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "D8F6A138-4327-48C6-91FA-9DE7BF8DCD1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24.0000001,
+    "width": 24.0000001,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "605EAAD9-6B4E-4FF7-9C37-CB4392A3357D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4BEE3DA5-2CB1-47FB-BA3B-75B9A9B14297"
+    },
+    {
+      "class": "group",
+      "id": "0A9A1996-CC93-4563-9277-5C94E24F2BB9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "74914084-F199-432A-971F-E495FF9551F1"
+    },
+    {
+      "class": "group",
+      "id": "4F981480-0E00-447C-B57B-77FF193A3A37"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97D338EF-B260-44A0-A7A6-68C3C59CE1CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5A94F81-39DA-4FFD-A963-96C868FDA27D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "958E3C23-53BB-4FF5-9048-17D98A750670"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D16202CE-42A5-47AD-82BA-38CFA6664CDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF9D491C-1C28-421D-91C8-FCFBF5E84DAF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E820847-76EE-47EF-A930-60A2D1C92B7F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "30083EB7-89D4-4D1D-84DC-582F4362DAD9"
+    },
+    {
+      "class": "group",
+      "id": "A4E0FB96-8459-4EDE-AE3F-2EC661637809"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E577D15A-D31F-409B-BB13-F4C134A1B075"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E2EE6EA-A331-4658-BC7A-67968834202F"
+    }
+  ],
+  "name": "Capa_1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E191F7DA-A3C4-4A64-86FD-C29689E58474",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "E682688B-A6BD-4FB8-89F4-5999913A7774",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F4174616-65CB-410B-AEF2-D451C822D765",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0782F358-5049-4167-ADA7-C7C7463D1D78",
+    "height": 1342,
+    "width": 1440,
+    "x": 9968,
+    "y": 341
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F6C1EBE9-E100-40CC-A013-9342BFBD5368",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AC702015-BA8E-49C1-8228-2A52E4234F31"
+    },
+    {
+      "class": "group",
+      "id": "9381D796-D636-42C9-ABD2-974286F3A161"
+    },
+    {
+      "class": "text",
+      "id": "AA4B6FD9-29F7-4EE4-9DCA-2805CF4D9FDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C544B12-8378-42D3-848F-2DFC60981703"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "321C9312-C4F5-4703-9192-CFA4641C2A6F"
+    },
+    {
+      "class": "group",
+      "id": "DC65E156-E51B-4708-8C75-2269627C8FA8"
+    },
+    {
+      "class": "group",
+      "id": "89BC2409-F606-4565-BDA9-8131CF16DFCC"
+    },
+    {
+      "class": "group",
+      "id": "350A99A4-5D3C-4C20-A09C-E4F5830D5495"
+    },
+    {
+      "class": "text",
+      "id": "64D1F0D0-6090-4F9A-A766-C291B7BC024F"
+    },
+    {
+      "class": "text",
+      "id": "C7376B9A-5E5C-45A5-9B8A-CA50E8CDCF68"
+    },
+    {
+      "class": "text",
+      "id": "82BD1A85-D031-488D-B16E-1EE15543DE17"
+    },
+    {
+      "class": "text",
+      "id": "9EF555E4-B77C-4AF8-A407-528615F75A4B"
+    },
+    {
+      "class": "text",
+      "id": "757C7A98-6EDA-4C31-AFA3-DA621BCC2AAC"
+    },
+    {
+      "class": "text",
+      "id": "6AC9930B-0D9A-4A29-A537-5528472A95CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6027D23-88EB-4D05-AEEE-DAED9CF056AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "278772A3-4890-4DBA-AE53-3E969D8CF081"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D26B96EF-E347-421A-82B6-748EF79CF895"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 63,
+    "do_objectID": "41FADD29-1591-4D43-BCD4-A5F51BC07962",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1140
+  },
+  "name": "Web 1920 - 21",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7CE7E860-F5D3-46E4-A046-EA4D84E14C3A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "variableIDSketchID": "7400CDFC-D0BC-4574-8B21-17233048CCD5"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7E29B8C4-9472-4165-8913-F8BFCCD2E225",
+    "guides": [
+    ]
+  }
+}

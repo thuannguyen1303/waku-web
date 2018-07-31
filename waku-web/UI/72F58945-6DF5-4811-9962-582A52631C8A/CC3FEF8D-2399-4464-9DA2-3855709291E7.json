@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "CC3FEF8D-2399-4464-9DA2-3855709291E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D272FDBA-4733-4707-BB60-703592D0DB83",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57FD8267-F480-47C3-995E-D18E62E380AD",
+    "height": 32,
+    "width": 150,
+    "x": 523,
+    "y": 93
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile-badge / md / no-date",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5A69D45-7ECD-4F96-B717-2C0E9E7CB0FF",
+      "overrideName": "156C9A47-7120-4E80-95DC-266F44B07263_stringValue",
+      "value": "Thuận Nguyễn"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A414EE5-411A-441D-9F4A-8066FD8F0249",
+      "overrideName": "920AF61E-CA06-4501-95BB-F12C81BBFA19_stringValue",
+      "value": "5 July, 2018"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7444A3F-1ED0-4FFA-9A2A-1D1D215697E9",
+      "overrideName": "1CC482C7-1337-47D5-AA8F-7F87FB8A47F0_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DD21020C-6945-4DD1-98B4-85B4C7856C00",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "39B5BC6E-151A-406B-99C4-4AF40C502EE9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

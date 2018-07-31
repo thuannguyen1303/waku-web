@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "B0BBC29D-76B9-4459-B4C2-454047184EA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE0DCE54-B087-40D7-B72D-8C4F3E37344C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D6F8251-42EE-450E-BEBD-874AE5CE311E",
+    "height": 48,
+    "width": 200,
+    "x": 733,
+    "y": 728
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C0AC850C-F070-4B37-82B8-E60B9C6CD54A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2BDB1442-487A-4819-8ADD-3E89A9A428F1"
+    },
+    {
+      "class": "text",
+      "id": "23C16DB0-3991-4B4D-BE42-A79B2C171B4D"
+    },
+    {
+      "class": "text",
+      "id": "88ECC6D7-5E73-42AE-A71B-3ADFBE3D1826"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "466B1F22-A9CC-4398-B546-5F483B150597"
+    },
+    {
+      "class": "text",
+      "id": "AC920498-5C61-41EB-BD35-41DF4F31BDEE"
+    },
+    {
+      "class": "text",
+      "id": "A73E6518-FF1F-4AA5-8401-995227D72CA2"
+    },
+    {
+      "class": "group",
+      "id": "B83112DB-35D4-4DAE-9054-595A5A804A99"
+    },
+    {
+      "class": "group",
+      "id": "3127223D-BB98-4C57-B667-F77F9ADF153C"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A5818EB-82C5-4DF6-BDB6-97815188F168",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

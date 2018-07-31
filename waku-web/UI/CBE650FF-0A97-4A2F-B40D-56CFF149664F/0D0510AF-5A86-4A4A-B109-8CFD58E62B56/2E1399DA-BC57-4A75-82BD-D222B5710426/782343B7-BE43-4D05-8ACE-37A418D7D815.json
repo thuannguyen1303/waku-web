@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "782343B7-BE43-4D05-8ACE-37A418D7D815",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "350B9726-FD8C-4C0F-A8A3-534DD285BB52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "32EBC546-5E9D-421A-9496-DDE67CE8A5B1",
+    "height": 40,
+    "width": 343,
+    "x": 0,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / horizontal / dark-text-sm",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DFE0B22-2A30-4E77-9F52-4CDCF835577E",
+      "overrideName": "231A763E-30A5-4B31-B4F9-A7522836FC76_stringValue",
+      "value": "Tags"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A8484808-8FBF-40BE-AF45-8E19B791C591",
+      "overrideName": "AE725759-DFA7-4AE5-BF54-40F9E70FAAA5_stringValue",
+      "value": "Travel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "43D4F245-EE01-457C-9810-773A63E98A3F",
+      "overrideName": "6E63CA8F-6E28-42A3-AB70-36E143267016_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC59F463-90F7-4C84-9466-C18273FA0C80",
+      "overrideName": "F6AC02B4-8846-4FFA-BC07-B0C69D3E1E22_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB77C854-CBD3-4685-B30E-8A580FFBAF29",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F6D65F7-4449-45DB-907C-52D6B46D8066",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

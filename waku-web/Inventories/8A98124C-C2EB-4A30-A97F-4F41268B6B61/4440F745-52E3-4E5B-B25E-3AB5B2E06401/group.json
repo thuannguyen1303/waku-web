@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "4440F745-52E3-4E5B-B25E-3AB5B2E06401",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CDCE13EE-7FB7-4B33-86F2-9E59F0F794D5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "869F2FCE-E1FD-4C90-882A-54942681F7F1",
+    "height": 98,
+    "width": 192,
+    "x": 626,
+    "y": -4
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F042E24F-7243-4D24-AFD3-3FE81ED1C294"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3AB9024F-30CF-4B4B-AE76-9C3572B8F306"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "370F8C18-FF68-4CCA-A48F-A7248A2AF75C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5808E73A-0AA0-4A71-ABFF-3990CE85512F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99D28DE2-A78E-46BE-9AF2-AACF403FD47A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4B92ED59-1207-4F5C-A6A5-1273873B13C4"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "588BB024-3A2B-47A7-A951-A177B76DAD43",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "actions": [
+          {
+            "animation": 0,
+            "customAnimationId": "",
+            "delayFromTrigger": 0,
+            "isOverlay": 0,
+            "modelID": "OpenScreen_7c1bd75e-d6cc-4a25-8cfe-a31d7f562ff5",
+            "model_class": "ADModelActionPresentScreen",
+            "model_version": 0.1,
+            "name": "untitled",
+            "presentationType": 2,
+            "screenId": "61701453-D52C-4E7F-8EDF-7F5CBB8F1DDC",
+            "trigger": 4
+          }
+        ]
+      }
+    }
+  }
+}

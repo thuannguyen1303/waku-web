@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "533B957F-98FE-4DF3-A524-11E7C15080C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76A71E03-9A2B-42F9-AECF-F14A335EB259",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F597118C-0B9F-480B-A023-E958738E4EFE",
+    "height": 47,
+    "width": 417,
+    "x": 16,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "AD4B180E-85B8-4EB5-99EE-8ED9C2C1C341"
+    },
+    {
+      "class": "text",
+      "id": "000F6E2A-49C3-4B63-A112-E6057CE96DE6"
+    },
+    {
+      "class": "text",
+      "id": "57D32D2C-F263-4CD2-9CE0-72701C8AF6D6"
+    },
+    {
+      "class": "text",
+      "id": "D78566D2-89B9-48B5-A331-AFC450A4A5AC"
+    },
+    {
+      "class": "text",
+      "id": "D4BECAF5-1665-459B-BF6B-058F5D927CD4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E771ED99-FE02-4A7D-8FFA-FC0D86F03DBA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0508E246-0D12-440D-AF0E-10CC36591082"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5CB67E9B-F40D-45B2-BEC2-F32FF75ABBE6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F080581-A110-4623-BD80-D98886D962D8"
+    }
+  ],
+  "name": "Stacked Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0F751041-3CCB-44FF-BE9E-7D0F4EAA3C8F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "spacing": 16,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

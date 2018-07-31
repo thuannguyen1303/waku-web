@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "1BB001FD-FCFC-48A5-BB53-1C47495615AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "927C9462-512C-494B-A7D4-CEF481CD6D26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE748294-238C-472C-A932-5389668743B0",
+    "height": 32,
+    "width": 428,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card / header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F88151A1-3E12-4EEE-B0E8-C1698D07745A",
+      "overrideName": "72E58608-AF12-4278-9A67-206BFFE8134C_stringValue",
+      "value": "Posts in"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F48A650C-4862-4533-B448-496461946AE1",
+      "overrideName": "478A209E-1FF1-4B9E-A1C8-E36051AE9D78_symbolID",
+      "value": "6792FDB7-BFF9-41E3-BFBE-EE49F7525D74"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1CC15EC2-1FB8-4623-A9E2-3DCB91A889FE",
+      "overrideName": "4579F575-ECCD-4DAB-85E2-498E1F6E9576_symbolID",
+      "value": "B68730EB-EA28-45C8-9494-4578B8C0AABA"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B98A735F-F9D3-435C-B237-31C0D32D10DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "77A0B6CC-22A2-4DEB-A2ED-85625C8D47E8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

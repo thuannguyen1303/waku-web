@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "3C544B12-8378-42D3-848F-2DFC60981703",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3696D87-C764-4800-ADC1-9D8440232406",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7BBD644F-A526-4A3E-9DD0-DFC713F850FE",
+    "height": 48,
+    "width": 538,
+    "x": 451,
+    "y": 368
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / text-input copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BF1121EE-59F9-4E13-974C-EFD28BA94FE6",
+      "overrideName": "DED701B1-6A52-4E45-84D7-C8A14216470C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC72ADE4-2E14-4F6F-9569-A30EC0E770DF",
+      "overrideName": "FC7111E4-FAD0-4715-B1A5-06E3DCF864B9_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C7E4532-9F07-4385-81D0-981CC67F84F2",
+      "overrideName": "FC7111E4-FAD0-4715-B1A5-06E3DCF864B9/8D7AB882-DF32-478D-B0A1-141E29BE9415_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "880391C6-BBBE-4B7E-B1D8-15A03BF4786E",
+      "overrideName": "10B09FFF-88D8-4F0B-A2B8-5CB686B01148_stringValue",
+      "value": " 244 Cong Quynh, Pham Ngu Lao Ward, Ho Chi Minh City"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E76A974-814B-4531-AD95-AEDF41DD1AA0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7593BFB4-63AF-4227-AC78-B9DC3327EED0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

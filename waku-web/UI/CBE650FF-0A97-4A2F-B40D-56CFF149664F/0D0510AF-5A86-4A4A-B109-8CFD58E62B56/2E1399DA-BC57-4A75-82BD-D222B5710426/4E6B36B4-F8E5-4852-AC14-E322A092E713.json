@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "4E6B36B4-F8E5-4852-AC14-E322A092E713",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29E2DBFE-9A13-4B3B-A668-2918A3332307",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C29B8C24-E843-48B0-9E4C-60F6ADEB85E7",
+    "height": 40,
+    "width": 343,
+    "x": 0,
+    "y": 120
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list / horizontal / dark-text-sm",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02CE718C-DE9C-4973-8B21-636BC9C347E5",
+      "overrideName": "AE725759-DFA7-4AE5-BF54-40F9E70FAAA5_stringValue",
+      "value": "Published"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0999EBD5-4873-4FE7-B591-6298BFB45D28",
+      "overrideName": "6E63CA8F-6E28-42A3-AB70-36E143267016_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "67229829-C15F-401F-97AA-D9F9DCBC2977",
+      "overrideName": "F6AC02B4-8846-4FFA-BC07-B0C69D3E1E22_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "95FEB889-3D07-47B6-A617-2538D7DA9489",
+      "overrideName": "231A763E-30A5-4B31-B4F9-A7522836FC76_stringValue",
+      "value": "Status"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "178E1E3B-EF3D-48A6-A97F-98F26C32856B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0F6D65F7-4449-45DB-907C-52D6B46D8066",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

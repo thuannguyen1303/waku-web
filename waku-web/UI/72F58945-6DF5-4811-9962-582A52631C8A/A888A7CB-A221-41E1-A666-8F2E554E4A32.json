@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "A888A7CB-A221-41E1-A666-8F2E554E4A32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "551DE6A7-DFFA-4E0D-B6BA-487002B4D5D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1C9AC5B-E4DB-4304-8C7C-55942DE008E9",
+    "height": 32,
+    "width": 118,
+    "x": 1238,
+    "y": 488
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "component / button / secondary copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C34C46BE-207C-475D-AFBC-B7643B45565A",
+      "overrideName": "D77CA0C8-3B77-4AB5-B225-4A8BBE69A970_stringValue",
+      "value": "Message"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E30B174-819D-41A9-8891-4F490E7BE3CD",
+      "overrideName": "6E197112-F2D6-4269-9487-8C8B051EDB45_symbolID",
+      "value": "CD371D31-A2A1-4F7C-B537-BA99707E1E0F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D56BB5A-FE1A-4C7D-A2DA-C2DBD91470A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6371FD15-B113-4E0A-A946-E41CFD00C15D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

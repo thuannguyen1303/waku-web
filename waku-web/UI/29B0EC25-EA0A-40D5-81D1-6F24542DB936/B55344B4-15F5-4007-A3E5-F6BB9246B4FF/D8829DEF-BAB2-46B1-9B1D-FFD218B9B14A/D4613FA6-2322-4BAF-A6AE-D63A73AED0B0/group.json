@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "D4613FA6-2322-4BAF-A6AE-D63A73AED0B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFF07E0A-09C2-4815-9E10-9AA4DCFFF6EC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7CD8241E-7872-449C-A03F-06CD46176313",
+    "height": 720,
+    "width": 275,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2B14AD82-4D53-40D4-B1E1-79C16BEEB53A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4D17E34-AC75-4F51-BEF2-6E45C1B68E11"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8ADCB550-5F05-4B87-9D5E-B9FC9EF29E52"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5252B47F-9FEF-4BBB-94E8-608736825554"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBA772DB-F704-422D-8F29-DDD8BD5041AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B9BE017-1BAC-4859-A0B8-EEAEA2430E78"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D20E3C3-C548-44B3-94C7-3E1F3FB5746E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8170FE5-E931-457F-837A-94C8A07C21ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CCE2DD2D-0089-4F17-8702-0EED7AFCE98F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A305BFE7-32A4-4E4B-A8D0-1744A1140A68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D5B9E72-F4BE-4076-B76B-BF7135F07FDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FC465CC-69ED-48C0-BFA6-84CA4C6E9759"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "259B8530-CF42-416F-8726-F743277873E7"
+    }
+  ],
+  "name": "Month Col",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9DC8A456-4F39-4151-BE02-A86CE367A6DD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
