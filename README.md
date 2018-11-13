@@ -1,2 +1,2 @@
 # waku-web
-Version control for git
+Version control with git
